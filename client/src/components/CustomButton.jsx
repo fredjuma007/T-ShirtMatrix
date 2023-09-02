@@ -29,7 +29,7 @@ const CustomButton = ({ type, title, customStyles, handleClick }) => {
       onClick={handleClick}
     >
       {title}
-    </button> //once clicked you will not be at the home page anymore
+    </button>
   )
 }
 
